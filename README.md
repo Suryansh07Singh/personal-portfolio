@@ -96,7 +96,7 @@ Practical knowledge of machine learning workflows
 
 You can view or download my resume here:
 
-https://raw.githubusercontent.com/username/repo/main/resume.pdf
+https://github.com/Suryansh07Singh/personal-portfolio/blob/main/src/assets/PES319_CV.pdf
 
 
 📫 Contact Me
