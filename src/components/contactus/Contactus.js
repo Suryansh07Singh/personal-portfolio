@@ -6,7 +6,7 @@ import { useState } from "react";
 import { AiOutlineSend } from "react-icons/ai";
 import { FiPhone, FiAtSign } from "react-icons/fi";
 import { HiOutlineLocationMarker } from "react-icons/hi";
-
+import lpu from "../../images/lpu.jpg";
 export default function Contactus() {
   const [formData, setFormData] = useState(new FormData());
 
@@ -138,7 +138,7 @@ export default function Contactus() {
                       <p style={{ color: "#fbd9ad" }}>+91 7007589740</p>
                     </a>
                     <a
-                      href="https://www.google.com/maps/place/Lovely+Professional+University/"
+                      href="https://maps.app.goo.gl/ZJb9VeZ56bZc1HoC6"
                       className="personal-details"
                     >
                       <div className="personal-details">
@@ -153,8 +153,11 @@ export default function Contactus() {
                     </a>
                   </div>
                   <div className="contact-map">
+                
                     <iframe
-                      src="https://www.google.com/maps/place/LPU+Law+Gate,+Chaheru+Khusropur+Link+Rd,+near+lawgate+parking+area,+Phagwara,+Punjab+144411/@31.2537918,75.6965282,3a,90y,190.63h,113.2t/data=!3m7!1e1!3m5!1s_2lbs7M5Px55MM9g_pz1Cg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-23.198460315110566%26panoid%3D_2lbs7M5Px55MM9g_pz1Cg%26yaw%3D190.62933910682943!7i13312!8i6656!4m6!3m5!1s0x391a5f6823dc7ecb:0x182b62a076830a62!8m2!3d31.255095!4d75.7005073!16s%2Fg%2F11f5t5mskx?entry=ttu&g_ep=EgoyMDI2MDMxMS4wIKXMDSoASAFQAw%3D%3D"
+                      src={lpu} 
+                      alt={lpu}
+                      style={{ width: "100%", height: "auto", maxWidth: "500px" }} 
                       frameBorder="0"
                       allowFullScreen=""
                       aria-hidden="false"

@@ -2,13 +2,6 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Zoom from "react-reveal/Zoom";
 import { Fade } from "react-reveal";
-import ucsc from "../../images/ucsc.png";
-import ufm from "../../images/ufm.png";
-import nh from "../../images/nh.jpg";
-import nactar from "../../images/nactar.jpg";
-import ccna from "../../images/CCNA_Certificate.jpg";
-import cbta from "../../images/CBT&A.pdf";
-import skill from "../../images/skill.png";
 import info from "../../images/info.png";
 import infosys from "../../images/infosys_1.pdf";
 import freecodecamp from "../../images/FreeCodeCamp Certificate.png";
@@ -16,13 +9,9 @@ import dsacpp from "../../images/DSA&Cpp Certification.pdf";
 import dsa from "../../images/dsa.png";
 import pydc from "../../images/Python Django Certificate.pdf";
 import pdc from "../../images/pdc.png";
-import c from "../../images/c.jpg";
 import nptel from "../../images/nptel.png";
 import courseera from "../../images/Coursera HOOQF5AYK2BT.pdf";
 import csa from "../../images/csa.png";
-import iq from "../../images/IQ_Test.jpg";
-import computer from "../../images/Computer_knowledge.jpg";
-import graphics from "../../images/Graphics_Design.jpg";
 import Particle from "../../Particle";
 export default function CertificatePage() {
   return (

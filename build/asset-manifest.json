@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.132e1796.css",
+    "main.js": "/static/js/main.176b82ef.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/wea.png": "/static/media/wea.6f16f2baba2ae4612de3.png",
+    "static/media/pp.png": "/static/media/pp.63d7084108085970aaf1.png",
+    "static/media/csa.png": "/static/media/csa.1a8e8fbced94ffff3f79.png",
+    "static/media/nptel.png": "/static/media/nptel.c6fa257e2cee28f5a0e7.png",
+    "static/media/Coursera HOOQF5AYK2BT.pdf": "/static/media/Coursera HOOQF5AYK2BT.cfa6eac7d700cc433245.pdf",
+    "static/media/info.png": "/static/media/info.428928744736cb4ca749.png",
+    "static/media/pdc.png": "/static/media/pdc.43b12a231119e2e82df5.png",
+    "static/media/FreeCodeCamp Certificate.png": "/static/media/FreeCodeCamp Certificate.a85520152167c7c8fa44.png",
+    "static/media/sm.png": "/static/media/sm.d02196b4367ed7756461.png",
+    "static/media/dsa.png": "/static/media/dsa.1e8a92871c3ee277541e.png",
+    "static/media/DSA&Cpp Certification.pdf": "/static/media/DSA&Cpp Certification.145da7c37ac6b91739ba.pdf",
+    "static/media/Python Django Certificate.pdf": "/static/media/Python Django Certificate.e9f9ca70e8d359587fa0.pdf",
+    "static/media/pc.png": "/static/media/pc.06ad21ea51446dc1062f.png",
+    "static/media/Vs.png": "/static/media/Vs.19edc3fbac1c451f289d.png",
+    "static/media/pg.png": "/static/media/pg.9f8f5cd98ce5726b002f.png",
+    "static/media/infosys_1.pdf": "/static/media/infosys_1.4b845f2f190990f3a3a8.pdf",
+    "static/media/PES319_CV.pdf": "/static/media/PES319_CV.3b08e18e2ebb7eabe616.pdf",
+    "static/media/github.png": "/static/media/github.345dc4a21070f9083ca7.png",
+    "static/media/confess.png": "/static/media/confess.20b6c33c476eb7416daf.png",
+    "static/media/lpu.jpg": "/static/media/lpu.11c7ee81118c4af54cb1.jpg",
+    "static/media/pre.svg": "/static/media/pre.e4c81c26304bc309eb55.svg",
+    "static/media/h3.jpg": "/static/media/h3.dc52d5d40a40b13154b0.jpg",
+    "static/media/chorme.svg": "/static/media/chorme.76eb99c03649b560eca4188fff132dcf.svg",
+    "index.html": "/index.html",
+    "main.132e1796.css.map": "/static/css/main.132e1796.css.map",
+    "main.176b82ef.js.map": "/static/js/main.176b82ef.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.132e1796.css",
+    "static/js/main.176b82ef.js"
+  ]
+}
