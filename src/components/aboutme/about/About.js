@@ -29,7 +29,7 @@ const About = () => {
             <Fade duration={3000}>
               <p className="home-about-body">
                 My name is <b className="purple">Suryansh Vikram Singh </b> 
-                  and I am a <b className="purple">Computer Science Engineering </b> 
+                  and I am a <b className="purple">Computer Science  </b> 
                     student at <b className="purple">Lovely Professional University </b>
                       in Punjab, India.
                 <br />
