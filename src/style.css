@@ -180,14 +180,11 @@ html {
   width: 384px;
 }
 .logo {
-height: 1.8em !important;
-width: 1.8em !important;
-border-radius: 50% !important;
-object-fit: cover !important;
-border: 2px solid #fbd9ad !important;
-display: inline-block !important;
-aspect-ratio: 1 / 1 !important;
-overflow: hidden !important;
+  height: 1.8em !important;
+  width: 1.8em !important;
+  border-radius: 50% !important;
+  object-fit: cover !important;
+  border: 2px solid #fbd9ad !important;
 }
 
 .navbar-nav .nav-link {
@@ -310,7 +307,7 @@ overflow: hidden !important;
   display: flex;
   justify-content: center;
   align-items: center;
-  padding-top: 9em;
+  padding-top: 3em;
 }
 
 .heading {
